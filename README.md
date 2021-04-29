@@ -1,7 +1,6 @@
 - 👋I’m @anahir21
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript, HTML, CSS, Figma, Github, React <iframe src="https://giphy.com/embed/XAxylRMCdpbEWUAvr8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/devrock-js-edr-escueladevrock-XAxylRMCdpbEWUAvr8">via GIPHY</a></p>
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript, HTML, CSS, Figma, Github, React https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif
 - 📫 How to reach me: an211291@hotmail.com
 
 <!---
