@@ -1,6 +1,6 @@
 - 👋I’m @anahir21
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript, HTML, CSS, Figma, Github, React <img src= https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif">
+- 🌱 I’m currently learning Javascript, HTML, CSS, Figma, Github, React <img src= https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif>
 - 📫 How to reach me: an211291@hotmail.com
 
 <!---
