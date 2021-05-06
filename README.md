@@ -2,7 +2,7 @@
 
 <h1 align="center"> ✨ Anahí Rosas R | Front-end Developer | Mexico <img src="https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="40"></h3>
 <h3 align="center"> About me<br>
-  <p> Mexican, philosopher, arts and tech enthusiastic, ice-cream lover</p> <br>
+  <p> 💜 Mexican, philosopher, arts and tech enthusiastic, ice-cream lover 💜</p> <br>
     
 
 
@@ -19,7 +19,7 @@ My Git Activity: <br>
 
 
  
-How to get in touch with Anahí: 
+How to get in touch with Anahí: <br>
 <a href="mailto:an211291@hotmail.com "><img src="https://media.giphy.com/media/5axRZ5SMhky9Kj60xk/giphy.gif" width="40"></a>
 
 <a href="https://www.linkedin.com/in/anahi-rosas-rivas/" target="_blank"> <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"/></a>
