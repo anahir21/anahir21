@@ -1,11 +1,11 @@
 <h1 align="center"> ✨ Anahí Rosas R | Front-end Developer | Mexico <img src="https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="40"></h3>
 <h3 align="center"> About me<br>
-  <p> Mexican, arts and tech enthusiastic, ice-cream lover</p> <br>
+  <p> Mexican, philosopher, arts and tech enthusiastic, ice-cream lover</p> <br>
     
 
 
-Currently learning VSC <img src ="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="50">, Javascript <img src= "https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50"> , HTML <img src ="" width="50">, CSS, Figma, Github, React <img src= "https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
-at [Laboratoria](https://www.laboratoria.la/) 💛 <img src="https://media.giphy.com/media/YqWwG9OLqD3LzbGoZU/giphy.gif">
+Currently learning VSC <img src ="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="50">, Javascript <img src= "https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50"> , HTML <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">, CSS, Firebase <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50" >, Github, React <img src= "https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
+at [Laboratoria](https://www.laboratoria.la/) 💛 <img src="https://media.giphy.com/media/YqWwG9OLqD3LzbGoZU/giphy.gif" width="80">
 
 
 
