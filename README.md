@@ -1,4 +1,4 @@
-- 👋I’m @anahir21
+- Anahí <img src= "https://media.giphy.com/media/3bu85lsWhBTlWcOMN6/giphy.gif" width="50">
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Javascript, HTML, CSS, Figma, Github, React <img src= "https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
 - 📫 How to reach me: an211291@hotmail.com
