@@ -1,13 +1,17 @@
 <h1 align="center"> ✨ Anahí Rosas R | Front-end Developer | Mexico <img src="https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="40"></h3>
-<h3 align="center" font-color="violet"> About me<br>
+<h3 align="center"> About me<br>
+  <p> Mexican, arts and tech enthusiastic, ice-cream lover</p>
 
 
 
+Currently learning Javascript, HTML, CSS, Figma, Github, React <img src= "https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
+📫 How to reach me: an211291@hotmail.com
 
-Anahí <img src= "https://media.giphy.com/media/3bu85lsWhBTlWcOMN6/giphy.gif" width="50">
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript, HTML, CSS, Figma, Github, React <img src= "https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
-- 📫 How to reach me: an211291@hotmail.com
+
+
+Anahí 
+Get in touch: 
+<img src= "https://media.giphy.com/media/3bu85lsWhBTlWcOMN6/giphy.gif" width="50">
 
 <!---
 anahir21/anahir21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
