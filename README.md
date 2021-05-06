@@ -7,14 +7,8 @@
 
 
 Currently learning <br>
-VSC <img src ="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="50">,          
-Javascript <img src= "https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50">,    
-HTML <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">,   
-CSS <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width ="50">,   
-Firebase <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50" >,    
-Github <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">,   
-React <img src= "https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
-at [Laboratoria](https://www.laboratoria.la/) 💛 <br>
+VSC <img src ="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="50">,          Javascript <img src= "https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50">,    HTML <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">,   CSS <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width ="50">,   Firebase <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50" >,    Github <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">,   React <img src= "https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
+at <br> [Laboratoria](https://www.laboratoria.la/) 💛 
 <img src="https://media.giphy.com/media/YqWwG9OLqD3LzbGoZU/giphy.gif" width="80">
 
 
