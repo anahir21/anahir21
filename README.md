@@ -8,7 +8,7 @@
 
 Currently learning <br>
 
-<img src ="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="50">         <img src= "https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50">,    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width ="50">   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50" >   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"> 
+<img src ="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="50">         <img src= "https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width ="50">   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50" >   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"> 
 
 
 at <br> 
@@ -17,6 +17,7 @@ at <br>
 <img src="https://media.giphy.com/media/YqWwG9OLqD3LzbGoZU/giphy.gif" width="80">
 
 My Git Activity: 
+
 <br>
 <img src= "https://github-readme-stats.vercel.app/api?username=anahir21&show_icons=true&theme=radical">
 
