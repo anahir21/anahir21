@@ -7,8 +7,8 @@
 
 
 Currently learning <br>
-VSC <img src ="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="50">, <br>
-Javascript <img src= "https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50"> , <br>
+VSC <img src ="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="30">, <br>
+Javascript <img src= "https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="30"> , <br>
 HTML <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">,  <br>
 CSS <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width ="50">,  <br>
 Firebase <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50" >,  <br>
