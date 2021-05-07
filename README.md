@@ -1,4 +1,8 @@
+![Profile views](https://gpvc.arturio.dev/anahir21)
+
 <div align="center">
+
+
 
 <h1 align="center"> ✨ Anahí Rosas R | Front-end Developer | Mexico <img src="https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif" width="50"></h3>
 <h3 align="center"> <strong>About me</strong><br>
