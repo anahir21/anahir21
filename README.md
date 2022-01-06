@@ -14,7 +14,7 @@
 
 <img src ="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/source.gif" width="50">         <img src= "https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="50"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width ="50">   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50" >   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"> + NextJs
 
-
+  <h3>Graduated as front end dev</h3>
 by <br> 
 
 [Laboratoria](https://www.laboratoria.la/) 💛  <br> 
